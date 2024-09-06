@@ -5,6 +5,10 @@
 
 This project aims to visualize critical aspects of infrastructure and essential services across Africa using data from the Afrobarometer Round 7 and Round 8 surveys. The focus is on mapping areas with piped water access, sewage systems, electricity grids, and cell service. Additionally, a Random Forest model is employed to predict piped water access based on various survey variables.
 
+[Dataset]([https://example.com](https://drive.google.com/file/d/1mYo1BmGtGlof-DOkYE7YPAZyV9EOqZ3S/view?usp=sharing))
+[Mapping Visualizaton](https://public.tableau.com/views/WaterandElectricityDevelopmentinAfrica/ElectricalSystemsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ## Features
 
 - **Geospatial Visualizations**: Interactive maps displaying piped water access, electricity grid availability, sewage systems, and cell service across Africa.
